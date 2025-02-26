@@ -1,5 +1,5 @@
-print ("hellomymom")
+print("hellomymom")
 print("I'm great")
 
-code = print (I-like)
- 
+code = "I-like"  # Corrige el error de sintaxis
+print(code)
